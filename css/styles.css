@@ -994,14 +994,23 @@ iframe {
   margin-bottom: 40px;
 }
 .progress-bar {
-  background: #c7254e;
+  background: #f2dede;
   width: 20%;
 }
 .progress-bar-2 {
-  background: #021533;
+  background: #d8d8d8;
 }
 .progress-bar-3 {
-  background: #d9212a;
+  background: #d9edf7;
+}
+.progress-bar-4 {
+  background: #dff0d8;
+}
+.progress-bar-5 {
+  background: #f7e1b5;
+}
+.progress-bar-6 {
+  background: #dddddd;
 }
 /* ==========================================================
 ! 13. SECTION: Portfolio
@@ -1432,4 +1441,5 @@ span.see-more {
 
   font-size: 13px;
   padding-bottom: 25px;
+  margin-top: 2px;
 }
